@@ -38,5 +38,9 @@ Release line: `v2.1.0-forge-1.8.9`. Release packages contain the reobfuscated mo
 the port sources and SHA-256 checksums. GitHub Release notes record the verified
 checks and the remaining gameplay acceptance limits.
 
-Release repository: [cappyeo/ReGlass-Forge-Port](https://github.com/cappyeo/ReGlass-Forge-Port).
-Release page: [v2.1.0-forge-1.8.9](https://github.com/cappyeo/ReGlass-Forge-Port/releases/tag/v2.1.0-forge-1.8.9).
+Release repository: [laylafights-create/ReGlass-Forge-Port](https://github.com/laylafights-create/ReGlass-Forge-Port).
+Release page: [v2.1.0-forge-1.8.9](https://github.com/laylafights-create/ReGlass-Forge-Port/releases/tag/v2.1.0-forge-1.8.9).
+
+The published tag retains commit `4c50c0383492d3102eca018b23e2b338e88fe9b2`
+and the same verified release artifacts. Canonical download links are maintained
+on `main` without rewriting the previously published tag.
